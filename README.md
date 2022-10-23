@@ -13,7 +13,7 @@
 <hr>
 <p align = "center">
     <a style="text-decoration: none;" href = "https://www.linkedin.com/in/geovanna-s-lima/" target = "_blank"> 
-        <img align = "center" src = "[[https://image.flaticon.com/icons/png/512/174/174857.png](https://www.gov.br/observatorio/es/programas-academicos/posgrado-en-geofisica/imagenes/linkedin.png/@@images/a790388b-9546-4bdf-a28c-e649889ac837.png)](https://logospng.org/download/linkedin/logo-linkedin-2048.png)" alt ="viniciuslatini" height ="40" width ="40"/> 
+        <img align = "center" src = "https://logospng.org/download/linkedin/logo-linkedin-2048.png" alt ="viniciuslatini" height ="40" width ="40"/> 
     </a>
 </p>
 
