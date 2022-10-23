@@ -60,10 +60,10 @@
 <h3 align = "left">💻 Informações do meu GitHub </h3>
 <hr>
 <p align = "center">
-    <a href="https://github.com/Geovanna-Lima">
-        <img align="center" alt="Geovanna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Geovanna-Lima&show_icons=true&theme=radical" />
+    <a href="https://github.com/ViniciusLatini">
+        <img align="center" alt="Vinicius Latini Github Stats" src="https://github-readme-stats.vercel.app/api?username=ViniciusLatini&show_icons=true&theme=radical" />
     </a>
-    <a href="https://github.com/Geovanna-Lima">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Geovanna-Lima&theme=radical" />
+    <a href="https://github.com/ViniciusLatini">
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ViniciusLatini&theme=radical" />
     </a>
 </p>
