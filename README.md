@@ -1,7 +1,7 @@
 <!--
 **ViniciusLatini/ViniciusLatini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align = "center">Olá, Desenvolvedor(a)!!! 👋🏼 </h1>
+<h1 align = "center">Olá, Dev!!! 👋🏼 </h1>
 
 <img src="https://user-images.githubusercontent.com/64505032/197410164-87559e3e-cdaf-4b16-8421-3f27a5dfcaac.png" alt="Avatar">
 
@@ -12,6 +12,9 @@
 <p align = "center">
     <a style="text-decoration: none;" href = "https://www.linkedin.com/in/viniciuslatini/" target="_blank"> 
         <img align = "center" src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" alt ="viniciuslatini" height ="40" width ="40"/> 
+    </a>
+    <a style="text-decoration: none;" href = "mailto: viniciuslatini2001@gmail.com" target="_blank"> 
+        <img align = "center" src = "https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt ="viniciuslatini" height ="50" width ="50"/> 
     </a>
 </p>
 
