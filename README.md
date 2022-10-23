@@ -61,7 +61,7 @@
 <hr>
 <p align = "center">
     <a href="https://github.com/ViniciusLatini">
-        <img align="center" alt="Vinicius Latini Github Stats" src="https://github-readme-stats.vercel.app/api?username=ViniciusLatini&show_icons=true&theme=radical" />
+        <img align="center" alt="Vinicius Latini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ViniciusLatini&show_icons=true&theme=radical" />
     </a>
     <a href="https://github.com/ViniciusLatini">
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ViniciusLatini&theme=radical" />
