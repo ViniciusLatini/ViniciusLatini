@@ -3,14 +3,14 @@
 -->
 <h1 align = "center">Olá, Desenvolvedor(a)!!! 👋🏼 </h1>
 
-<img src="https://user-images.githubusercontent.com/71272198/120073460-c771ed80-c06e-11eb-8da8-9f3d384fd0b4.png" alt="Avatar">
+<img src="https://user-images.githubusercontent.com/64505032/197410164-87559e3e-cdaf-4b16-8421-3f27a5dfcaac.png" alt="Avatar">
 
 <p> Eu sou a <strong>Vinícius</strong>, tenho 21 anos e sou estudante de Ciência da Computação na Universidade Federal de Juiz de Fora. Iniciei meu curso em 2019, desde lá venho me aprimorando na área e procurando me aprofundar cada vez mais nas linguagens de programação. A parte que mais me interesso atualmente é front-end e futuramente pretendo atuar nessa área.</p>
 
 <h3 align = "left"> 📱 Contato</h3>
 <hr>
 <p align = "center">
-    <a style="text-decoration: none;" href = "https://www.linkedin.com/in/viniciuslatini/" target = "_blank"> 
+    <a style="text-decoration: none;" href = "https://www.linkedin.com/in/viniciuslatini/" target="_blank"> 
         <img align = "center" src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" alt ="viniciuslatini" height ="40" width ="40"/> 
     </a>
 </p>
