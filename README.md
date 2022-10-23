@@ -7,16 +7,13 @@
 
 <img src="https://user-images.githubusercontent.com/71272198/120073460-c771ed80-c06e-11eb-8da8-9f3d384fd0b4.png" alt="Avatar">
 
-<p> Eu sou a <strong>Geovanna</strong>, tenho 17 anos e sou estudante de Informática no Instituto Federal de Educação Ciência e Tecnologia de São Paulo. Iniciei meu curso em 2019, desde lá venho me aprimorando na área e procurando me aprofundar cada vez mais nas linguagens de programação. A parte que mais me interesso atualmente é front-end e futuramente pretendo atuar nessa área.</p>
+<p> Eu sou a <strong>Vinícius</strong>, tenho 21 anos e sou estudante de Ciência da Computação na Universidade Federal de Juiz de Fora. Iniciei meu curso em 2019, desde lá venho me aprimorando na área e procurando me aprofundar cada vez mais nas linguagens de programação. A parte que mais me interesso atualmente é front-end e futuramente pretendo atuar nessa área.</p>
 
 <h3 align = "left"> 📱 Contato</h3>
 <hr>
 <p align = "center">
-    <a style="text-decoration: none;" href="https://codepen.io/geovanna-lima" target="_blank"> 
-        <img align = "center" src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/59_Codepen-512.png" alt ="geovannalima" height ="40" width ="40" /> 
-    </a>
     <a style="text-decoration: none;" href = "https://www.linkedin.com/in/geovanna-s-lima/" target = "_blank"> 
-        <img align = "center" src = "https://image.flaticon.com/icons/png/512/174/174857.png"alt ="geovannalima" height ="40" width ="40"/> 
+        <img align = "center" src = "[https://image.flaticon.com/icons/png/512/174/174857.png](https://www.gov.br/observatorio/es/programas-academicos/posgrado-en-geofisica/imagenes/linkedin.png/@@images/a790388b-9546-4bdf-a28c-e649889ac837.png)" alt ="viniciuslatini" height ="40" width ="40"/> 
     </a>
 </p>
 
