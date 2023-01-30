@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/64505032/197410164-87559e3e-cdaf-4b16-8421-3f27a5dfcaac.png" alt="Avatar">
 
-<p> Eu sou a <strong>Vinícius</strong>, tenho 21 anos, me formei como Técnico em Informática no CEFET-MG, Leopoldina, atualmente estou cursando Ciência da Computação na Universidade Federal de Juiz de fora (UFJF). Iniciei o técnico em 2018, desde lá venho me aprimorando na área e procurando me aprofundar cada vez mais nas linguagens de programação. A parte que mais me interesso atualmente é <i>front-end</i> e desenvolvimento mobile, futuramente pretendo atuar nessas áreas.</p>
+<p> Eu sou o <strong>Vinícius</strong>, tenho 21 anos, me formei como Técnico em Informática no CEFET-MG, Leopoldina, atualmente estou cursando Ciência da Computação na Universidade Federal de Juiz de fora (UFJF). Iniciei o técnico em 2018, desde lá venho me aprimorando na área e procurando me aprofundar cada vez mais nas linguagens de programação. A parte que mais me interesso atualmente é <i>front-end</i> e desenvolvimento mobile, futuramente pretendo atuar nessas áreas.</p>
 
 <h3 align = "left"> 📱 Contato</h3>
 <hr>
